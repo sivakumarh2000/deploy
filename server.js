@@ -7,7 +7,7 @@ const connectDB = require("./config/db");
 const userRoutes = require("./routes/users");
 const errorHandler = require("./middlewares/error");
 
-//
+////
 // Connect to DB
 connectDB();
 
